@@ -15,7 +15,7 @@ Gestion de projet data (cadrage, cahier des charges, KPI, qualité)
 
 Machine Learning (méthode supervisée/méthode non supervisée)
 
-Tableau & Power BI (dashboards interactifs)
+Tableau & Power BI (dashboards intéractifs)
 
 SQL & Modélisation de bases de données
 
@@ -23,9 +23,9 @@ Documentation, data storytelling & vidéos pédagogiques
 
 ## Mes projets
 
-### Analyse des ventes d’une librairie – stats
+### Analyse des ventes d’une librairie – Statistiques
 
-➤ Tests statistiques, corrélations
+➤ Tests statistiques, étude de corrélations
 Outils : Python, Pandas
 🔗 Code : (à venir)
 🔗 Dashboard : (à venir)
@@ -33,7 +33,7 @@ Outils : Python, Pandas
 ### Étude de santé publique – Analyse exploratoire
 
 ➤ Nettoyage, tendances, représentations visuelles
-Outils : R / Python
+Outils : Python
 🔗 (à venir)
 
 ### Base immobilière SQL – Modélisation & requêtes
@@ -51,21 +51,22 @@ Outils: SQL
 ➤ Avancement, coûts, délais, qualité, efficacité
 🔗 (à venir)
 
-### Tableau de bord : Veille IA (santé / supply chain)
+### Tableau de bord : Veille IA (supply chain)
 
 ➤ Sources, outils, curation, analyse d’impact
 🔗 (à venir)
 
 ### Vidéo pédagogique – Créer une visualisation de données sur Tableau
 
-➤ Conceptualisation, script, tournage, montage
+➤ Conceptualisation, script, enregistrement, montage
+
 🔗 (à venir)
 
 ## Compétences
 
 Data
 
-Python | Pandas | SQL | Tableau | Power BI | ML | Statistiques
+Python | Pandas | SQL | Tableau | Power BI | Machine Learning | Statistiques
 
 Gestion & business
 
@@ -86,5 +87,5 @@ Pricing | Logistique Internationale | Packaging & conformité
 📬 Me contacter
 
 📧 (email)
-🔗 LinkedIn : (à venir)
+🔗 LinkedIn : linkedin.com/in/elodie-mendes-9905ba116 
 🔗 Tableau Public : (à venir)
