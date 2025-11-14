@@ -1,10 +1,11 @@
 # Elodie Mendes - PORTFOLIO
-Bienvenue sur mon Portfolio
+Bienvenue sur mon Portfolioù
+
 Bonjour, je suis Élodie — Data Analyst & Cheffe de Projet Data
 
 -> 10 ans d’expérience en achats internationaux
--> Formée en analyse de données (Python, SQL, R, Tableau, Power BI)
--> Spécialisée en IA appliquée métiers, e-commerce, supply chain & santé
+
+-> Formée en analyse de données (Python, SQL, Tableau, Power BI,Knime)
 
 ## Ce que je fais
 
@@ -12,11 +13,11 @@ Analyse & visualisation de données
 
 Gestion de projet data (cadrage, cahier des charges, KPI, qualité)
 
-Machine Learning (classif, clustering, ACP)
+Machine Learning (regression, classification, clustering, ACP)
 
 Tableau & Power BI (dashboards interactifs)
 
-SQL & modélisation de bases de données
+SQL & Modélisation de bases de données
 
 Documentation, data storytelling & vidéos pédagogiques
 
