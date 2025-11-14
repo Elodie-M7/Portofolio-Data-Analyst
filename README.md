@@ -78,7 +78,7 @@ prétraitement et la manipulation des données, bonnes pratiques en termes de da
 
 Python | Pandas | SQL | Tableau | Power BI | Machine Learning | Statistiques
 
-**Gestion & business**
+**Gestion & Business**
 
 KPIs | Achats internationaux | Sourcing Asie
 Pricing | Logistique Internationale | Packaging & conformité
