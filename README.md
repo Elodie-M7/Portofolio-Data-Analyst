@@ -1,7 +1,7 @@
-# Elodie Mendes - PORTFOLIO
+# Elodie - PORTFOLIO
 Bienvenue sur mon Portfolio
 
-Je suis Élodie — Data Analyst & Cheffe de Projet Data
+Je suis Élodie Mendes — Data Analyst & Cheffe de Projet Data
 
 -> 10 ans d’expérience en achats internationaux
 
@@ -26,7 +26,7 @@ Documentation, data storytelling & vidéos pédagogiques
 ### Analyse des ventes d’une librairie – Statistiques
 
 ➤ Tests statistiques, étude de corrélations
-Outils : Python, Pandas
+Outils : Python,Pandas
 🔗 Code : (à venir)
 🔗 Dashboard : (à venir)
 
@@ -38,17 +38,27 @@ Outils : Python
 
 ### Base immobilière SQL – Modélisation & requêtes
 Outils: SQL
-➤ 20+ requêtes, modèle MCD, automatisation
+➤ 20+ requêtes, modèle MCD, normalisation
 🔗 (à venir)
 
 ### Détection de faux billets – Machine Learning
-
+Outils: Python (Scikit-learn)
 ➤ ACP + régression logistique + modèles comparés
 🔗 (à venir)
 
-### Dashboard Power BI – Gestion de projets
-
+### Suivi de l'avancements de projets - Data Visualisation
+Outils: Dashboard Power BI 
 ➤ Avancement, coûts, délais, qualité, efficacité
+🔗 (à venir)
+
+### Etude sur l'eau potable - Dashboard Power BI 
+Outils: Dashboard Power BI 
+➤ recherche de données pertinentes, storytelling, 
+prétraitement et la manipulation des données, bonnes pratiques en termes de data visualisation
+🔗 (à venir)
+
+### Etude de marché pour un aviculteur
+➤ Machine Learning (Methode non supervisée - ACP/Clustering), recherche de données pertinentes
 🔗 (à venir)
 
 ### Tableau de bord : Veille IA (supply chain)
