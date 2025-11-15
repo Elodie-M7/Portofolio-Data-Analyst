@@ -1,4 +1,4 @@
-# Elodie - PORTFOLIO
+# Elodie MENDES
 Bienvenue sur mon Portfolio
 
 Je suis Élodie Mendes — Data Analyst & Cheffe de Projet Data
