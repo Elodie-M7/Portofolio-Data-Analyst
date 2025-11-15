@@ -5,7 +5,7 @@ Je suis Élodie Mendes — Data Analyst & Cheffe de Projet Data
 
 -> 10 ans d’expérience en achats internationaux
 
--> Formée en analyse de données (Python (Pandas, Scikit-Learn), SQL, Tableau, Power BI,Knime)
+-> Formée en analyse de données (Python: Pandas,Sklearn), SQL, Tableau, Power BI,Knime)
 
 ## Ce que je fais
 
@@ -29,8 +29,12 @@ Outils : Python,Pandas
 
 ➤ Tests statistiques, étude de corrélations
 
-🔗 Code : (à venir)
-🔗 Dashboard : (à venir)
+
+### Optimisation de la gestion des données pour un site-ecommerce
+
+Outils: Python
+
+➤ Consolisation de données & traitement de données, analyses exploratoires de fichiers, préparation des données pour l'analyse
 
 ### Étude de santé publique – Analyse exploratoire
 
@@ -38,28 +42,26 @@ Outils : Python
 
 ➤ Nettoyage, tendances, représentations visuelles
 
-🔗 (à venir)
 
-### Base immobilière SQL – Modélisation & requêtes
+### Création et utilisation d'une Base de données immobilière SQL – Modélisation & requêtes
 
 Outils: SQL
 
-➤ 20+ requêtes, modèle MCD, normalisation
-🔗 (à venir)
+➤ +20 requêtes, modèle conceptuel de données, normalisation
+
 
 ### Détection de faux billets – Machine Learning
 
 Outils: Python (Scikit-learn)
 
 ➤ ACP + régression logistique + modèles comparés
-🔗 (à venir)
 
 ### Suivi de l'avancements de projets - Data Visualisation
 
 Outils: Dashboard Power BI 
 
 ➤ Avancement, coûts, délais, qualité, efficacité
-🔗 (à venir)
+
 
 ### Etude sur l'eau potable - Dashboard Power BI 
 
@@ -67,23 +69,22 @@ Outils: Dashboard Power BI
 
 ➤ Recherche de données pertinentes, storytelling, 
 prétraitement et la manipulation des données, bonnes pratiques en termes de data visualisation
-🔗 (à venir)
+
 
 ### Etude de marché pour un aviculteur
 
 ➤ Machine Learning (Methode non supervisée - ACP/Clustering), recherche de données pertinentes
-🔗 (à venir)
+
 
 ### Tableau de bord : Veille IA (supply chain)
 
 ➤ Sources, outils, curation, analyse d’impact
-🔗 (à venir)
+
 
 ### Vidéo pédagogique – Créer une visualisation de données sur Tableau
 
 ➤ Conceptualisation, script, enregistrement, montage
 
-🔗 (à venir)
 
 ## Compétences
 
@@ -100,7 +101,7 @@ Pricing | Logistique Internationale | Packaging & conformité
 
  Analytique •  Empathie •  Adaptation •  Curiosité •  Storytelling •  Rigueur
 
-##  Formations
+## Formations
 
 -  Data Analyst – OpenClassrooms
 -  Master Management de projet option Commerce International – Ascencia Business School
@@ -109,7 +110,5 @@ Pricing | Logistique Internationale | Packaging & conformité
 
 ## Me contacter
 
-📧 (email)
-🔗 LinkedIn :[Profil Linkedin](linkedin.com/in/elodie-mendes-9905ba116) 
+➤ LinkedIn :[Profil Linkedin](linkedin.com/in/elodie-mendes-9905ba116) 
 
-🔗 Tableau Public : (à venir)
