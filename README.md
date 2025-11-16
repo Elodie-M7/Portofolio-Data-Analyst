@@ -1,4 +1,4 @@
-![Ma photo](photo-pour-dashboard.png](https://github.com/Elodie-M7/Portofolio-Data-Analyst/tree/bda4e15ba464655759ee5104b4a130dce6a0a33d/img)
+![photo-pour-dashboard.png](https://github.com/Elodie-M7/Portofolio-Data-Analyst/tree/bda4e15ba464655759ee5104b4a130dce6a0a33d/img)
 # Elodie MENDES
 Bienvenue sur mon Portfolio
 
