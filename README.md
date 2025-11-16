@@ -1,3 +1,4 @@
+![Ma photo](photo-pour-dashboard.png)
 # Elodie MENDES
 Bienvenue sur mon Portfolio
 
