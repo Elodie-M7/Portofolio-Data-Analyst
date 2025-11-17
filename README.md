@@ -109,5 +109,5 @@ Pricing | Logistique Internationale | Packaging & conformité
 
 ## Me contacter
 
-➤ LinkedIn :[Profil Linkedin](linkedin.com/in/elodie-mendes-9905ba116](https://www.linkedin.com/in/elodie-mendes-9905ba116/)
+➤ LinkedIn :[Profil Linkedin](https://www.linkedin.com/in/elodie-mendes-9905ba116/)
 
