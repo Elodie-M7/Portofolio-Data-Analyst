@@ -100,7 +100,7 @@
 
 *Contexte*: Une agence immobilière a lancé le projet "DATAImmo" pour créer un modèle prédictif capable d’estimer le prix de vente des biens immobiliers. 
 
-*Objectifs*: Modifier et exploiter la base de données des transactions immobilières afin d’analyser le marché et d’aider les agences régionales.
+*Objectifs*: Créer et modéliser la base de données des transactions immobilières pour une meilleure exploitation de données.
 
 *Actions*: Collecte de données, Normalisation (3NF) et Modélisation des données, requêter et manipuler des bases de données relationnelles.
 
@@ -121,7 +121,7 @@
 
 *Actions* : Préparer et analyser les données, entraîner différents modèles prédictifs (supervisés et non supervisés), puis comparer leurs performances. 
 
-*Résultat* : Mise en place d’une application performante pour la détection automatique des faux billets.
+*Résultat* : Mise en place d’une application performante et opérationnelle pour la détection automatique des faux billets.
 
 ➡️ [Voir le projet](https://github.com/Elodie-M7/Portofolio-Data-Analyst/tree/fca23d148147b3996522034e79568c7118dd62dd/Mes_projets/D%C3%A9tectez%20des%20faux%20billets)
 
