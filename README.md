@@ -25,9 +25,9 @@
 
 ---
 
-## Projets Data
+## Mes Projets Data
 
-### Analyse de vente pour la grande distribution
+### Analyse des ventes pour la grande distribution
 ![marketing](img/Le-grand-Marché-bannière.png)
 
 **Data visualisation, Storytelling**
@@ -64,7 +64,7 @@
 
 **Python,Consolidation, nettoyage, EDA**  
 
-*Contexte*: Un boutique de vins et spiritieux en ligne a des difficultés à gérer ses stocks et analyser les performances de son activité.
+*Contexte*: Une boutique de vins et spiritieux en ligne a des difficultés à gérer ses stocks et analyser les performances de son activité.
 
 *Objectifs*: Assurer l'interopérabilité des données entre l'ERP interne à l'entreprise et ceux de son site e-commerce.
 
@@ -186,7 +186,7 @@ Création de services d’accès à l’eau potable, modernisation de services d
 
 *Objectif* : Créer un portfolio pour postuler au poste de chef de projet Data
 
-*Actions* :  gestion du projet (Cachier des charges, Diagramme de Gantt), Analyse des besoins métiers, production de contenus pédagogiques
+*Actions* :  Gestion du projet (Cachier des charges, Diagramme de Gantt), Analyse des besoins métiers, production de contenus pédagogiques
 
 *Résultat* : Portfolio contenant les livrables demandés pour le dossier de candidature (Tableau de bord de profil, Tableau de bord de veille métier, Vidéo de formation, Documentation)
 
