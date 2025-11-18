@@ -15,7 +15,7 @@
 
 ## À propos
 
-10 ans d’expérience en **achats internationaux**, aujourd’hui spécialisée dans :
+10 ans d’expérience dans les **achats internationaux**, aujourd’hui spécialisée dans :
 
 - Analyse & visualisation de données  
 - Machine Learning (supervisé / non supervisé)  
