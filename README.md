@@ -1,4 +1,4 @@
-
+![Ma photo de profil](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/48e9fe1eb675a545e7ace8052985d68d99e0d583/img/photo-pour-github.PNG)
 # Elodie MENDES
 Bienvenue sur mon Portfolio
 
