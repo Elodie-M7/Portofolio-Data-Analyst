@@ -6,7 +6,7 @@ Je suis Élodie Mendes — Data Analyst & Cheffe de Projet Data
 
 -> 10 ans d’expérience en achats internationaux
 
--> Formée en analyse de données (Python: Pandas,Sklearn), SQL, Tableau, Power BI,Knime)
+-> Formée en analyse de données (Python, SQL, Tableau, Power BI,Knime)
 
 ## Ce que je fais
 
