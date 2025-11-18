@@ -90,7 +90,7 @@ Gestion de projet, veille métier & dataviz
 
 ---
 
-## Compétences
+## 🛠️ Compétences
 
 **Data**  
 Python • Pandas • SQL • Tableau • Power BI • Machine Learning • Statistiques  
@@ -100,13 +100,13 @@ Achats internationaux • KPI • Sourcing Asie • Pricing • Logistique • C
 
 ---
 
-## Soft Skills
+## 💡 Soft Skills
 
 Analytique • Curiosité • Storytelling • Adaptation • Empathie • Rigueur
 
 ---
 
-## Formations
+## 🎓 Formations
 
 - Data Analyst — OpenClassrooms  
 - Master Management de Projet — Ascencia Business School  
@@ -115,7 +115,7 @@ Analytique • Curiosité • Storytelling • Adaptation • Empathie • Rigue
 
 ---
 
-## Contact
+## 📬 Contact
 
 📎 **LinkedIn** :  
 [www.linkedin.com/in/elodie-mendes-9905ba116](https://www.linkedin.com/in/elodie-mendes-9905ba116/)
