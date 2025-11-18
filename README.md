@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="img/photo-pour-github.jpg" width="160" style="border-radius: 100%;"/>
+  <img src="img/photo-pour-github.jpg" width="160"/>
 </p>
 
 <h1 align="center">Élodie MENDES</h1>
