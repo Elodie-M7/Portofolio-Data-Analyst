@@ -219,7 +219,7 @@ Analytique • Curiosité • Storytelling • Adaptation • Empathie • Rigue
 ---
 
 ## 📬 Contact
-![linkedin](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/fc6fb080a872c61875d14ab9bde0179a53d5561d/img/Profil%20Linkedin.png)
+![linkedin](img/Profil-Linkedin.png)
 
 📎 **LinkedIn** :  
 [www.linkedin.com/in/elodie-mendes-9905ba116](https://www.linkedin.com/in/elodie-mendes-9905ba116/)
