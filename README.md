@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/main/assets/images/photo-pour-github.jpg" width="160" style="border-radius: 100%;"/>
+  <img src="https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/c75b8958eab47dd88b4f3dd049431e3615b24f2d/img/photo-pour-github.jpg" width="160" style="border-radius: 100%;"/>
 </p>
 
 <h1 align="center">Élodie MENDES</h1>
