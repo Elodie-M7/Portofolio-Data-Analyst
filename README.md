@@ -180,8 +180,7 @@ Création de services d’accès à l’eau potable, modernisation de services d
 
 ### ✈️ Livrables AéroWorld  
 
-Gestion de projet, veille métier & dataviz, vidéo de formation, documentation.  
-➡️ [Voir](https://github.com/Elodie-M7/Dossier-de-candidature-A-roworld/tree/bf15a8f4dc7c32eb91e27c5e03de7333a67fce4f/Livrables)
+**Gestion de projet, veille métier & dataviz, vidéo de formation, documentation**  
 
 *Contexte*: Une entreprise dans l'aéronautique recherche un chef de projet Data pour l'accompagner dans sa transformation digitale
 
@@ -191,6 +190,7 @@ Gestion de projet, veille métier & dataviz, vidéo de formation, documentation.
 
 *Résultat* : Portfolio contenant les livrables demandés pour le dossier de candidature (Tableau de bord de profil, Tableau de bord de veille métier, Vidéo de formation, Documentation)
 
+➡️ [Voir le projet](https://github.com/Elodie-M7/Dossier-de-candidature-A-roworld/tree/bf15a8f4dc7c32eb91e27c5e03de7333a67fce4f/Livrables)
 ---
 
 ## 🛠️ Compétences
