@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="img/photo-pour-github.jpg" width="160" style="border-radius: 50%;"/>
+  <img src="img/photo-pour-github.jpg" width="160" style="border-radius: 100%;"/>
 </p>
 
 <h1 align="center">Élodie MENDES</h1>
@@ -28,7 +28,7 @@
 ## Projets Data
 
 ### Analyse de vente pour la grande distribution
-![marketing](/img/Le%20grand%20March%C3%A9%20banni%C3%A8re.png)
+![marketing](/img/LegrandMarchébannière.png)
 
 **Data visualisation, Storytelling**
 
