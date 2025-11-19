@@ -192,7 +192,7 @@ Création de services d’accès à l’eau potable, modernisation de services d
 
 *Résultat* : Portfolio contenant les livrables demandés pour le dossier de candidature (Tableau de bord de profil, Tableau de bord de veille métier, Vidéo de formation, Documentation)
 
-➡️ [Voir le projet]([https://github.com/Elodie-M7/Dossier-de-candidature-A-roworld/tree/bf15a8f4dc7c32eb91e27c5e03de7333a67fce4f/Livrables](https://github.com/Elodie-M7/Dossier-de-candidature-A-roworld/tree/bf15a8f4dc7c32eb91e27c5e03de7333a67fce4f))
+➡️ [Voir le projet](https://github.com/Elodie-M7/Dossier-de-candidature-A-roworld/tree/main)
 
 ---
 
