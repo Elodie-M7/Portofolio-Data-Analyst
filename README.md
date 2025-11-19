@@ -181,7 +181,7 @@ Création de services d’accès à l’eau potable, modernisation de services d
 ---
 
 ### ✈️ Livrables AéroWorld  
-
+![avion](img/Création-portfolio.png)
 **Gestion de projet, veille métier & dataviz, vidéo de formation, documentation**  
 
 *Contexte*: Une entreprise dans l'aéronautique recherche un chef de projet Data pour l'accompagner dans sa transformation digitale
