@@ -178,6 +178,8 @@ Création de services d’accès à l’eau potable, modernisation de services d
 
 ➡️ [Voir le projet](https://github.com/Elodie-M7/Portofolio-Data-Analyst/tree/fca23d148147b3996522034e79568c7118dd62dd/Mes_projets/Etude%20de%20march%C3%A9%20pour%20projet%20d'export)
 
+---
+
 ### ✈️ Livrables AéroWorld  
 
 **Gestion de projet, veille métier & dataviz, vidéo de formation, documentation**  
@@ -191,6 +193,7 @@ Création de services d’accès à l’eau potable, modernisation de services d
 *Résultat* : Portfolio contenant les livrables demandés pour le dossier de candidature (Tableau de bord de profil, Tableau de bord de veille métier, Vidéo de formation, Documentation)
 
 ➡️ [Voir le projet](https://github.com/Elodie-M7/Dossier-de-candidature-A-roworld/tree/bf15a8f4dc7c32eb91e27c5e03de7333a67fce4f/Livrables)
+
 ---
 
 ## 🛠️ Compétences
