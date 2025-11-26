@@ -216,7 +216,7 @@ Analytique • Curiosité • Storytelling • Adaptation • Empathie • Rigue
 
 - Data Analyst — OpenClassrooms  
 - Master Management de Projet — Ascencia Business School  
-- Licence AES — Sorbonne Paris Nord  
+- Licence d'administration économique et sociale — Sorbonne Paris Nord  
 - BUT Techniques de Commercialisation — Sorbonne Paris Nord  
 
 ---
